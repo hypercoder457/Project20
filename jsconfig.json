@@ -1,0 +1,10 @@
+{
+    "include": [
+        "./p5.d/p5.d.ts",
+        "./p5.d/p5-global-mode.d.ts",
+        "./node_modules/@types/p5/lib/addons/p5.dom.d.ts",
+        "./node_modules/@types/p5/lib/addons/p5.sound.d.ts",
+        "./node_modules/@types/p5/src/*.d.ts",
+        "./node_modules/@types/p5/src/**/*.d.ts",
+    ]
+}
